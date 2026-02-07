@@ -3,8 +3,6 @@ permalink: /
 title: "About"
 layout: single
 author_profile: true
-header:
-  image: /images/header.jpg
 ---
 
 
