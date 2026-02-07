@@ -35,7 +35,7 @@ I study political economy with a dual focus on (1) how reputational costs influe
 
 **When the Tail Wags the Dog: Climate Exposure and News Media Behavior in the Global South**  
 *With Federica Genovese, Anthony Calacino, and Mats Ahrenshop*  
-* 2026*
+* 2026 *
 
 <details>
   <summary>Abstract</summary>
@@ -46,7 +46,7 @@ I study political economy with a dual focus on (1) how reputational costs influe
 
 **Green Jobs Perceptions and Female Labour Integration\\ in the Energy Transition** 
 *With Federica Genovese and Hannah Salamon*
-
+* 2026 *
 <details>
   <summary>Abstract</summary>
   <p>In order to mitigate the catastrophic effects of climate change whilst avoiding widespread political backlash, governments around the world are considering enacting a just energy transition that addresses the concerns of various social groups in the working age population. Focusing on the gender dimension of the energy transition, this paper explores the gender-labour dynamics  around support for energy jobs, and investigates under what conditions women and men may be differently inclined to take on green industry work. We argue that men and women may be interested in energy jobs for different reasons. Building on existing  research on gender and climate politics, we argue that women may be  more attracted to green energy jobs, even if at the expense of pay, due to their intrinsic interest in non-legacy sectors and cleaner activities. However, consistent with other economic and social research, we also expect that women  give a higher premium to inclusive employment conditions and flexible work ecosystems than men. Consequently, we also expect that women  may be less inclined to move out of social roles and trade lifestyle  for  green jobs. Experimental data from a novel online survey in the UK largely confirms that, while women are  more inclined to take on  green work than men, this preference is conditional on the socialization conditions of the job.</p>
@@ -57,6 +57,7 @@ I study political economy with a dual focus on (1) how reputational costs influe
 
 **Housing-Based Coalitions of Support for Climate Policies** 
 *With Federica Genovese, Anthony Calacino, and Mats Ahrenshop, and Susanna Garside*
+* 2026 *
 
 <details>
   <summary>Abstract</summary>
@@ -80,7 +81,7 @@ I study political economy with a dual focus on (1) how reputational costs influe
 
 **Who Gives a Damn About a Bad Reputation?
 The Corporate Exodus and the Russian-Ukrainian War** 
-*Working paper.*
+* 2025 *
 
 <details>
   <summary>Abstract</summary>
@@ -103,8 +104,8 @@ The Corporate Exodus and the Russian-Ukrainian War**
 ---
 
 **Potemkin Disclosure: Firms Strategically Use Transparency to Avoid Climate Regulation** 
-*2025*
 *With Jonas Fisher*
+*2025*
 
 <details>
   <summary>Abstract</summary>
@@ -114,8 +115,7 @@ The Corporate Exodus and the Russian-Ukrainian War**
 ---
 
 
-**Emerging cleavages:
-Green Protectionism and Eco-Sovereigns in Europe** *
+**Emerging cleavages:Green Protectionism and Eco-Sovereigns in Europe**
 *With Alex Kuo*
 *2026*
 
