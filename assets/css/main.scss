@@ -179,5 +179,25 @@ details p {
   padding-top: 2.5rem;
 }
 
+/* === Fiona-style faded photo header behind title + nav === */
+.masthead {
+  /* photo */
+  background-image:
+    linear-gradient(rgba(255,255,255,0.70), rgba(255,255,255,0.70)),
+    url("/hayleypring.github.io/images/header.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /* make it “header height”, not a hero */
+  padding: 1.75rem 0 1.25rem;
+  border-bottom: 1px solid rgba(0,0,0,0.10);
+}
+
+/* a little extra spacing like Fiona */
+.masthead__inner-wrap {
+  padding-top: 0;
+  padding-bottom: 0;
+}
 
 
