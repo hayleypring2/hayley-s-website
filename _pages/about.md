@@ -11,5 +11,5 @@ I'm a Post-Doctoral Research Fellow at Oxford University in the Departmenet of P
 
 I occasionally engage in consultation work for government or NGOs focused on geopolitics, climate change, and trade. 
 
-</div>
+
 
