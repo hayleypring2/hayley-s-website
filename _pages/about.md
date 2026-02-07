@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Hayley Pring"
+title: "About"
 layout: single
 author_profile: true
-classes: home
 ---
+
 
 
 I'm a Post-Doctoral Research Fellow at Oxford University in the Department of Politics and International Relations. I am also a Skoll ECR Fellow at Saïd Business School. I work on the [Climate Vulnerability Project](https://climatevulnerability.wordpress.com/) with Professor Federica Genovese. I received my PhD and MPhil in International Relations from Nuffield College, Oxford University, and my B (Hons) from the Australian National University.<br>
