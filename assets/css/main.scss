@@ -67,22 +67,23 @@
 }
 
 
-/* --- Custom overrides: force white background --- */
-html, body,
-.initial-content,
-.page,
-.page__inner-wrap,
-.page__content,
-.archive,
-.masthead,
-.sidebar,
-.sidebar__right,
-#main,
-.page__content-wrap {
-  background-color: #ffffff !important;
+/* === White background in LIGHT mode only (keep dark mode working) === */
+/* Support both common toggle patterns: class="dark"/"dark-theme" and data-theme="dark" */
+
+html:not(.dark):not(.dark-theme):not([data-theme="dark"]),
+body:not(.dark):not(.dark-theme):not([data-theme="dark"]) {
+  background-color: #ffffff;
 }
 
-.page__content {
-  box-shadow: none !important;
+html:not(.dark):not(.dark-theme):not([data-theme="dark"]) #main,
+html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .initial-content,
+html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .page__inner-wrap,
+html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .page__content,
+html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .page__content-wrap,
+html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .archive,
+html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .sidebar,
+html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .sidebar__right {
+  background-color: #ffffff;
 }
+
 
