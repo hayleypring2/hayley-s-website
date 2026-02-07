@@ -115,3 +115,23 @@ details p {
   margin-top: 0.25rem;
 }
 
+/* --- Antonio-like typography + spacing --- */
+
+/* comfortable reading width */
+.page__content {
+  max-width: 62ch;
+}
+
+/* make the main content start lower (breathing room) */
+.page__inner-wrap {
+  padding-top: 2.25rem;
+}
+
+/* typography tweaks (keeps default look, just nicer) */
+.page__content p,
+.page__content li {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+
