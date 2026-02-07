@@ -65,3 +65,19 @@
     display: flex;
   }
 }
+
+
+/* --- Custom overrides: force white background --- */
+html, body,
+.initial-content,
+.page,
+.page__inner-wrap,
+.page__content,
+.archive,
+.masthead,
+.sidebar,
+.sidebar__right,
+#main,
+.page__content-wrap {
+  background-color: #ffffff !important;
+}
