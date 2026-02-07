@@ -67,24 +67,37 @@
 }
 
 
-/* === White background in LIGHT mode only (keep dark mode working) === */
-/* Support both common toggle patterns: class="dark"/"dark-theme" and data-theme="dark" */
+/* === Background override that still respects the day/night toggle === */
+/* Works whether the toggle uses data-theme="dark" or a .dark/.dark-theme class */
 
-html:not(.dark):not(.dark-theme):not([data-theme="dark"]),
-body:not(.dark):not(.dark-theme):not([data-theme="dark"]) {
-  background-color: #ffffff;
+:root {
+  --site-bg: #ffffff;
 }
 
-html:not(.dark):not(.dark-theme):not([data-theme="dark"]) #main,
-html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .initial-content,
-html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .page__inner-wrap,
-html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .page__content,
-html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .page__content-wrap,
-html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .archive,
-html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .sidebar,
-html:not(.dark):not(.dark-theme):not([data-theme="dark"]) .sidebar__right {
-  background-color: #ffffff;
+/* Dark mode: cover the common implementations */
+html[data-theme="dark"],
+body[data-theme="dark"],
+html.dark,
+body.dark,
+html.dark-theme,
+body.dark-theme {
+  --site-bg: #111111;
 }
+
+/* Apply the variable to the main wrappers (no !important so dark mode can win) */
+html, body,
+#main,
+.initial-content,
+.page,
+.page__inner-wrap,
+.page__content,
+.page__content-wrap,
+.archive,
+.sidebar,
+.sidebar__right {
+  background-color: var(--site-bg);
+}
+
 
 /* Research page: clean expandable abstracts */
 details summary {
