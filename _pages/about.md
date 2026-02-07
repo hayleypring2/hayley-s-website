@@ -3,8 +3,9 @@ permalink: /
 title: "About"
 layout: single
 author_profile: true
+header:
+  image: /images/header.jpg
 ---
-
 
 
 I'm a Post-Doctoral Research Fellow at Oxford University in the Department of Politics and International Relations. I am also a Skoll ECR Fellow at Saïd Business School, and a Non-Stipendiary Fellow at Nuffield College. I work on the [Climate Vulnerability Project](https://climatevulnerability.wordpress.com/) with Professor Federica Genovese. I received my PhD and MPhil in International Relations from Nuffield College, Oxford University, and my BA (Hons) from the Australian National University.<br>
