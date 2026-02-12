@@ -78,18 +78,20 @@ details p {
 
 /* === Typography: reduce size and improve readability === */
 
-/* Use STIX if loaded; fall back gracefully */
+/* LaTeX-style typography */
 .page__content,
 .page__content p,
 .page__content li {
-  font-family: "STIX Two Text", ui-serif, Georgia, "Times New Roman", serif;
+  font-family: "STIX Two Text", serif;
+  font-size: 0.9rem;   /* smaller, academic feel */
+  line-height: 1.6;
 }
 
 /* Normal body size (slightly smaller) */
 .page__content p,
 .page__content li {
-  font-size: 0.95rem;
-  line-height: 1.65;
+  font-size: 0.88rem;   // noticeably smaller
+  line-height: 1.6;
 }
 
 
