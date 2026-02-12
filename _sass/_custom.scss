@@ -85,12 +85,13 @@ details p {
   font-family: "STIX Two Text", ui-serif, Georgia, "Times New Roman", serif;
 }
 
-/* Normal body size */
+/* Normal body size (slightly smaller) */
 .page__content p,
 .page__content li {
-  font-size: 1rem;
+  font-size: 0.95rem;
   line-height: 1.65;
 }
+
 
 /* Comfortable measure */
 .page__content {
