@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Hello!"
 layout: single
 author_profile: true
 ---
