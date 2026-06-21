@@ -26,11 +26,11 @@ author:
   avatar           :  "author.jpg"
   name             : "Hayley Pring"
   pronouns         : # example: "she/her"  
-  bio              : "Post-Doctoral Research Fellow, Oxford University."
-  location         : "Oxford"
-  employer         : "Oxford University"
+  bio              : "Senior Associate, Energy & Climate."
+  location         : "Melbourne"
+  employer         : "Grattan Institute"
   uri              : # URL
-  email            : "Hayley.Pring@politics.ox.ac.uk" 
+  email            : "hayleypring@grattaninstitute.edu.au" 
 
   # Academic websites
   academia         : # URL
