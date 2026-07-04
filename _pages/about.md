@@ -10,7 +10,7 @@ I'm a Senior Associate in Energy and Climate at the Grattan Institute in Melbour
 
 <br>
 I love using data to tell stories, testing arguments, and I like being really rigorous about the claims we make, or the policies we pursue. Mostly, I care about making sure we're pursuing the right policies for meaningful decarbonisation.  <br>
-
+ <br>
 In my past academic life, my PhD focused on firm behaviour and cooperation problems in international political economy (climate change, geopolitics, the design of trade agreements). I'm trained in R, Python, statistics, causal inference techniques, data analytics, computational methods, and machine learning techniques. I work at the intersection of business–politics and public policy, with a big focus on the political economy of climate change. <br>
 
 I occasionally teach and consult depending on the request!
