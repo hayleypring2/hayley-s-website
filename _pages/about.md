@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I'm a Senior Associate in Energy and Climate at the Grattan Institute in Melbourne, Australia. Prior to this I was a Post-Doctoral Research Fellow at Oxford University working on the political economy of climate change and the energy transition. I am also a Skoll ECR Fellow at the Saïd Business School. Alongside my work at Grattan, I'm an Associate at the Oxford's DPIR, and Nuffield College where I moonlight with my favourite CVP folks ([Climate Vulnerability Project](https://climatevulnerability.wordpress.com/)!). I received my PhD and MPhil in International Relations from Nuffield College, Oxford University, and my BA (Hons) from the Australian National University.<br>
+I'm a Senior Associate in Energy and Climate at the Grattan Institute in Melbourne, Australia. Prior to this I was a Post-Doctoral Research Fellow at Oxford University working on the political economy of climate change and the energy transition. I am also a Skoll ECR Fellow at the Saïd Business School. Alongside my work at Grattan I'm also an Associate at Oxford's DPIR and Nuffield College, where I moonlight with my favourite CVP folks ([Climate Vulnerability Project](https://climatevulnerability.wordpress.com/))! I received my PhD and MPhil in International Relations from Nuffield College, Oxford University, and my BA (Hons) from the Australian National University.<br>
 
 <br>
 I love using data to tell stories, testing arguments, and I like being really rigorous about the claims we make, or the policies we pursue. Mostly, I care about making sure we're pursuing the right policies for meaningful decarbonisation.  <br>
